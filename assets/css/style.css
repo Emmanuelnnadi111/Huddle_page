@@ -47,6 +47,10 @@ img {
   width: 120px;
 }
 
+a {
+  text-decoration: none;
+}
+
 
 .header {
   display: flex;
@@ -71,6 +75,7 @@ img {
   margin-bottom: 4em;
 }
 
+
 h1 {
   width: 350px;
   margin: 0 auto;
@@ -93,6 +98,10 @@ h1 {
   width: 200px;
   margin: 0 auto;
   margin-bottom: 2em;
+}
+
+.get-started:hover {
+  background-color: rgb(253, 161, 173);
 }
 
 .screen-mockups{
@@ -297,6 +306,10 @@ h1 {
 
 .fa-instagram {
   font-size: 2rem;
+}
+
+.fa-twitter:hover {
+  background-color: cyan;
 }
 
 
